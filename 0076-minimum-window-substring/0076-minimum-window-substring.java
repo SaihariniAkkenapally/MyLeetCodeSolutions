@@ -1,46 +1,43 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if(t.length() > s.length())
-            return "";
+        HashMap<Character, Integer> map = new HashMap<>();
 
-        StringBuilder result = new StringBuilder();
-        int[] frequencyOfT = new int[58];
-        int[] frequencyOfS = new int[58];
-
-        for(int index = 0; index < t.length(); index++)
-        {
-            frequencyOfT[t.charAt(index) - 'A']++;
-        }
-
-        int left = 0;
+        for(char c : t.toCharArray())
+            map.put(c, map.getOrDefault(c, 0) + 1);
+        
+        int start = 0;
         int startIndex = 0;
-        int endIndex = 0;
+        int matched = 0;
+        int minLen = s.length() + 1;
 
-        for(int right = 0; right < s.length(); right++)
+        for(int endWindow = 0; endWindow < s.length(); endWindow++)
         {
-            frequencyOfS[s.charAt(right) - 'A']++;
-
-            while(left <= right && compare(frequencyOfT, frequencyOfS))
+            char c = s.charAt(endWindow);
+            if(map.containsKey(c))
             {
-                if(result.length() == 0 || right - left + 1 < result.length())
+                map.put(c, map.get(c) - 1);
+                if(map.get(c) == 0)
+                    matched++;
+            }
+
+            while(matched == map.size())
+            {
+                if(minLen > endWindow - start + 1)
                 {
-                    result.delete(0,result.length());
-                    result.append(s.substring(left, right + 1));
+                    minLen = Math.min(minLen, endWindow - start + 1);
+                    startIndex = start;
                 }
-                frequencyOfS[s.charAt(left) - 'A']--;
-                left++;
+
+                char deleted = s.charAt(start++);
+                
+                if(map.containsKey(deleted))
+                {
+                    if(map.get(deleted) == 0)
+                        matched--;
+                    map.put(deleted, map.get(deleted) + 1);
+                }
             }
         }
-        return result.toString();
-    }
-
-    boolean compare(int[] countT, int[] countS)
-    {
-        for(int index = 0; index < countT.length; index++)
-        {
-            if(countS[index] < countT[index])
-                return false;
-        }
-        return true;
+        return minLen > s.length() ? "" : s.substring(startIndex, startIndex + minLen);
     }
 }
