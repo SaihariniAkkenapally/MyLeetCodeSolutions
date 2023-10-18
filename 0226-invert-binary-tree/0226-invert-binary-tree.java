@@ -16,12 +16,23 @@
 class Solution {
     public TreeNode invertTree(TreeNode root) {
         if(root == null)
-            return null;
-        TreeNode leftPointer = root.left;
-        root.left = root.right;
-        root.right = leftPointer;
-        invertTree(root.left);
-        invertTree(root.right);
+            return root;
+
+        Deque<TreeNode> deque = new ArrayDeque<TreeNode>();
+        deque.add(root);
+
+        while(!deque.isEmpty())
+        {
+            TreeNode currentNode = deque.removeFirst();
+            TreeNode leftPointer = currentNode.left;
+            currentNode.left = currentNode.right;
+            currentNode.right = leftPointer;
+
+            if(currentNode.left != null)
+                deque.add(currentNode.left);
+            if(currentNode.right != null)
+                deque.add(currentNode.right);  
+        }
         return root;
     }
 }
