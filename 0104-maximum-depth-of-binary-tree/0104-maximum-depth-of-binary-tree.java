@@ -17,6 +17,24 @@ class Solution {
     public int maxDepth(TreeNode root) {
         if(root == null)
             return 0;
-        return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
+            
+        int level = 0;
+        Deque<TreeNode> deque = new ArrayDeque<TreeNode>();
+        deque.add(root);
+
+        while(!deque.isEmpty())
+        {
+            level++;
+            int size = deque.size();
+            for(int index = 0; index < size; index++)
+            {
+                TreeNode node = deque.removeFirst();
+                if(node.left != null)
+                    deque.add(node.left);
+                if(node.right != null)
+                    deque.add(node.right);
+            }
+        }
+        return level;
     }
 }
