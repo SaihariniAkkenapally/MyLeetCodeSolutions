@@ -6,39 +6,17 @@ class Solution {
         {
             int sum = 0;
             if(i>=0)
-            {
                 sum = sum + a.charAt(i)-'0';
-            }
             if(j>=0)
-            {
                 sum = sum + b.charAt(j)-'0';
-            }
             sum = sum + carry;
-            if(sum==3)
-            {
-                carry = 1;
-                s.append('1');
-            }
-            else if(sum==2)
-            {
-                carry = 1;
-                s.append('0');
-            }
-            else if(sum==1)
-            {
-                s.append('1');
-                carry =0;
-            }
-            else
-            {
-                s.append('0');
-                carry=0;
-            }
+            s.append(sum%2);
+            carry = sum/2;
             i--;
             j--;
         }
-        if(carry==1)
-        s.append('1');
+        if(carry!=0)
+            s.append(carry);
         return s.reverse().toString();
     }
 }
