@@ -54,6 +54,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
