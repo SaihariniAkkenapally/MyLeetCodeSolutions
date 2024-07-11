@@ -62,6 +62,7 @@
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1217-relative-sort-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1217-relative-sort-array) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +94,12 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1217-relative-sort-array) |
+## String
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
