@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1217-relative-sort-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1217-relative-sort-array) |
@@ -88,11 +90,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
 | [1217-relative-sort-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1217-relative-sort-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [1217-relative-sort-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1217-relative-sort-array) |
 ## String
 |  |
@@ -102,4 +106,8 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
