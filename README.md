@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -82,6 +83,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
@@ -112,6 +114,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 ## Queue
 |  |
