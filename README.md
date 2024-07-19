@@ -54,6 +54,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
