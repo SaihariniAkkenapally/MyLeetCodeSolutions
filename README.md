@@ -145,5 +145,6 @@
 | ------- |
 | [0180-consecutive-numbers](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0180-consecutive-numbers) |
 | [0626-exchange-seats](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0626-exchange-seats) |
+| [1523-capital-gainloss](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1523-capital-gainloss) |
 | [2041-the-latest-login-in-2020](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
