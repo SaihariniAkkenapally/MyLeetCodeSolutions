@@ -144,4 +144,5 @@
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0180-consecutive-numbers) |
+| [0626-exchange-seats](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
