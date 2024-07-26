@@ -1,0 +1,2 @@
+/* Write your T-SQL query statement below */
+select distinct num as ConsecutiveNums from logs m where num = (select num from logs a where a.id+1 = m.id) and num = (select num from logs b where m.id = b.id+2);
