@@ -140,4 +140,8 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
