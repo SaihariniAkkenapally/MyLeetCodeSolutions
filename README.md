@@ -127,18 +127,22 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Database
 |  |
