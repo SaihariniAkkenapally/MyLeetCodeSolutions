@@ -66,6 +66,7 @@
 | [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1217-relative-sort-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1217-relative-sort-array) |
@@ -106,12 +107,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1217-relative-sort-array](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1217-relative-sort-array) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
