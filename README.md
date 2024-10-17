@@ -138,11 +138,13 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Database
 |  |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
