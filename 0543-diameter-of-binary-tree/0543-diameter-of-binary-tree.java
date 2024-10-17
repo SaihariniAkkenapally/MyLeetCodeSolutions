@@ -27,7 +27,7 @@ class Solution {
             return 0;
         int leftSubtree = getHeight(root.left);
         int rightSubtree = getHeight(root.right);
-        diameter = Math.max(diameter, Math.max((leftSubtree + rightSubtree),0));//, 1 + Math.max(leftSubtree, rightSubtree)));
+        diameter = Math.max(diameter, leftSubtree + rightSubtree);
         return 1 + Math.max(leftSubtree, rightSubtree);
     }
 }
