@@ -82,6 +82,7 @@
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -141,6 +143,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -150,6 +153,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
@@ -165,6 +169,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Database
@@ -182,4 +187,5 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
