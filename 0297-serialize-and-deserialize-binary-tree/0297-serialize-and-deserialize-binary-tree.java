@@ -13,7 +13,6 @@ public class Codec {
     public String serialize(TreeNode root) {
         StringBuilder sb = new StringBuilder();
         preorder(root,sb);
-        System.out.println(sb.toString());
         return sb.toString();
     }
 
