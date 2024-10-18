@@ -140,6 +140,7 @@
 | [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -148,12 +149,14 @@
 | [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -161,6 +164,7 @@
 | [0098-validate-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SaihariniAkkenapally/MyLeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 ## Database
